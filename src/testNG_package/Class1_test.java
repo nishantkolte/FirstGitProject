@@ -14,6 +14,7 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 //This is my second commit
 //This is edited in GIT repository. 
+//This is my second commit
 public class Class1_test {
 @BeforeTest (groups="Smoke")
 public void before_func(){
