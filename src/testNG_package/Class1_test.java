@@ -12,6 +12,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+//This is my second commit
 
 public class Class1_test {
 @BeforeTest (groups="Smoke")
