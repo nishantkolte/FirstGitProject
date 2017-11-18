@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 //This is my second commit
-
+//This is edited in GIT repository. 
 public class Class1_test {
 @BeforeTest (groups="Smoke")
 public void before_func(){
